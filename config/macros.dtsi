@@ -1,6 +1,6 @@
 bstab: macro_backspace_tab {
   compatible = "zmk,behavior-mod-morph";
-  label = "backspace_tab";
+  label = "macro_backspace_tab";
   #binding-cells = <0>;
   bindings = <&kp BSPC>, <&kp TAB>;
   mods = <MOD_LALT>;
