@@ -1,4 +1,4 @@
-bstab: macro_backspace_tab {
+macro_bstab: macro_backspace_tab {
   compatible = "zmk,behavior-mod-morph";
   label = "macro_backspace_tab";
   #binding-cells = <0>;
